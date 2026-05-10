@@ -1,0 +1,4 @@
+protobuf>=4.0
+pynacl>=1.5
+aiohttp>=3.9
+Pillow>=10.0

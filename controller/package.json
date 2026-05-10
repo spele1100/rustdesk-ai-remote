@@ -1,0 +1,15 @@
+{
+  "name": "ai-remote-controller",
+  "version": "0.1.0",
+  "description": "AI Remote Desktop Control — Controller (runs on VPS)",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "demo": "node index.js --task \"Open a text editor and type Hello World\""
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "node-fetch": "^3.3.2"
+  }
+}
