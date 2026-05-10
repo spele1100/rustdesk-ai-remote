@@ -5,3 +5,7 @@ node_modules/
 fork/
 source/
 bin/
+agent/target/
+agent-python/
+__pycache__/
+*.pyc
